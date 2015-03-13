@@ -10,14 +10,17 @@
   "author": "Me",
   "license": "ISC",
   "dependencies": {
+    "leaflet": "^0.7.3",
     "react": "0.12.2",
     "reflux": "",
     "firebase": "",
     "react-router": "",
     "uuid": "",
     "q": "^1.2.0",
+    "react": "0.12.2",
     "reflux": "^0.2.6",
-    "underscore": "1.8.2"
+    "underscore": "1.8.2",
+    "uuid": ""
   },
   "devDependencies": {
     "express": "^4.12.0",
