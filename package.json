@@ -11,6 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "leaflet": "^0.7.3",
+    "react": "0.12.2",
+    "reflux": "",
+    "firebase": "",
+    "react-router": "",
+    "uuid": "",
     "q": "^1.2.0",
     "react": "0.12.2",
     "reflux": "^0.2.6",

@@ -32,7 +32,7 @@ gulp.task('livereload', function() {
 });
 
 gulp.task('webpack', function() {
-  return gulp.src('./lib/js/app.js')
+  return gulp.src('./lib/js/App.js')
     .pipe(webpack( require('./webpack.config.js') ))
     .pipe(gulp.dest('public/assets/js'));
 });
