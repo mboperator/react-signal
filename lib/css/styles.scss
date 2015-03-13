@@ -18,14 +18,18 @@
   }
 }
 
-.map {
-  padding: 10px;
-}
-
 .form {
   label {
     display: block;
   }
 }
 
-#map { height: 100%; }
+#map {
+  position: absolute;
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
