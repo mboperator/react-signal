@@ -6,6 +6,18 @@
   .container-fluid div {
     display: inline-block; }
 
+.buttons {
+  padding-bottom: 15px; }
+  .buttons span {
+    padding: 10px;
+    text-align: center; }
+
+.form {
+  padding: 0px;
+  padding-right: 10px; }
+  .form li {
+    list-style-type: none; }
+
 #map {
   -webkit-order: 1;
       -ms-flex-order: 1;
